@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cdf61162-3ebc-40a2-b197-b5120cd29e8a">
+  <producedTypes>
+    <objectType typeId="63b790ff-bb30-4b9e-b37d-d973aafe4ec8" valueTypeId="95a3e807-6715-4760-83f6-56f6d6e42537"/>
+    <refType typeId="5493b0f9-73d5-452a-ace5-a586faa28865" valueTypeId="846bc558-3c40-4f11-bee8-707a8cac378f"/>
+    <selectionType typeId="5eba9103-6850-480f-9ae1-10fa4a99c03a" valueTypeId="421a41d5-9173-4f6f-a6a8-03248799c89d"/>
+    <listType typeId="96b9c688-9f70-4990-a46d-56194711a436" valueTypeId="f1338f64-98b3-4938-aea8-6942ea9db77d"/>
+    <managerType typeId="a57a3785-4eed-407c-94ef-3088b00a3ece" valueTypeId="a0f8da86-be14-4c8c-9bdf-90bdc39f2475"/>
+  </producedTypes>
+  <name>Договоры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Договоры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Договоры.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Договоры.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <owners>Catalog.Контрагенты</owners>
+  <codeLength>9</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
