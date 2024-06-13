@@ -37,4 +37,5 @@
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
+  <catalogs>Catalog.Валюты</catalogs>
 </mdclass:Configuration>
